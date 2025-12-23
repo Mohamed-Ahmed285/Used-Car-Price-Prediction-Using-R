@@ -122,11 +122,4 @@ Ensemble learning methods, particularly **Random Forest** and **XGBoost**, signi
 
 This project provides a comprehensive comparison of predictive models on a real-world dataset and serves as a strong benchmark for future research and applications in automotive price prediction.
 
----
-
-##  References
-
-1. Montgomery et al., *Introduction to Linear Regression Analysis*, Wiley, 2012  
-2. Breiman et al., *Classification and Regression Trees*, 1984  
-3. Breiman, “Random Forests,” *Machine Learning*, 2001  
-4. Chen & Guestrin, “XGBoost,” *KDD*, 2016  
+--- 
